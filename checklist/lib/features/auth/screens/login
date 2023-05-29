@@ -1,0 +1,22 @@
+-create loginscreen and test with scaffold (switch pallete to lightmode to verify)
+-get logo to be used on the screen
+-add Appbar wth
+	-title: which is the logopath,
+		height: 40
+	-actions; textbutton for 'skip'
+-body; column
+	space;30
+	ttext;
+		24, bold, letterSpa 0.5 
+	space;30
+	Padding;
+		logo
+	space;30
+	padding; 18
+		sign_in_button
+			minimumSize; Size(double.infinity, 50),
+			backgroundColor: Pallete.greyColor,
+			shape: RoundedRectangleBorder(
+		  		borderRadius: BorderRadius.circular(18)
+	
+

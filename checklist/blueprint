@@ -1,0 +1,4 @@
+-main 1;
+-theme/pallete 1;
+-screens/login 1-4;
+-lib/core/constants 1;
